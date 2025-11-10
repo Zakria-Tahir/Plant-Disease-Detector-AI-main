@@ -81,16 +81,11 @@ Give a detailed explanation of the plant disease 'Tomato___Early_blight', includ
 
 ## 🧑‍💻 Author
 
-* **Junaid Babar** — BSCS Student at Superior University
+* **Zakria Tahir** — BSCS Student at Superior University
 
 ---
 
-## 🙏 Acknowledgements
 
-Special thanks to (for their academic support and valuable project feedback):
-
-* **Sir Uzair Ahmed**
-* **Sir Haider Krar**
   
 LinkedIn profiles of both supervisors will be linked in the final LinkedIn post.
 
